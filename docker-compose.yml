@@ -1,0 +1,5 @@
+services:
+  api:
+    build:
+      context: git@github.com:leogrijo/sithcida.git
+      dockerfile: Dockerfile
